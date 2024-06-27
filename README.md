@@ -8,7 +8,7 @@ tags:
 base_model: stabilityai/stable-diffusion-xl-base-1.0
 pivotal_tuning: true
 textual_embeddings: embeddings.pti
-instance_prompt: <s0><s1>
+instance_prompt: an <s0><s1> emoji
 inference: false
 ---
 # sdxl-emoji LoRA by [fofr](https://replicate.com/fofr)
